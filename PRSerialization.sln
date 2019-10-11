@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRSerialization", "PRSerialization\PRSerialization.csproj", "{9137C2CE-6475-45EC-BB06-C1B347D86785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRSerializationTests", "PRSerializationTests\PRSerializationTests.csproj", "{F32C51B8-A07A-4CC8-B0E0-582AE601981B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9137C2CE-6475-45EC-BB06-C1B347D86785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9137C2CE-6475-45EC-BB06-C1B347D86785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9137C2CE-6475-45EC-BB06-C1B347D86785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9137C2CE-6475-45EC-BB06-C1B347D86785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32C51B8-A07A-4CC8-B0E0-582AE601981B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32C51B8-A07A-4CC8-B0E0-582AE601981B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32C51B8-A07A-4CC8-B0E0-582AE601981B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32C51B8-A07A-4CC8-B0E0-582AE601981B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68BADAEE-C0C6-4931-BBAC-6D6F185BA818}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\bin\Debug\PRSerialization.dll
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\bin\Debug\PRSerialization.pdb
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\obj\Debug\PRSerialization.csprojAssemblyReference.cache
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\obj\Debug\PRSerialization.csproj.CoreCompileInputs.cache
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\obj\Debug\PRSerialization.dll
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\obj\Debug\PRSerialization.pdb
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\bin\Debug\nunit.engine.dll
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\bin\Debug\nunit.engine.api.dll
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\bin\Debug\nunit.framework.dll
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\bin\Debug\nunit.framework.pdb
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\bin\Debug\nunit.framework.xml
+C:\Users\travw\source\repos\PRSerialization\PRSerialization\obj\Debug\PRSerialization.csproj.CopyComplete
